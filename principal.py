@@ -1,0 +1,13 @@
+from funcoes import *
+print("-"*50)
+print("************Faculdade Cesusc************")
+print("Curso: Analise e Desenvolvimento de Sistemas")
+print("Discipl.: Lógica De Prog. E Algorítmos")
+print("Turma:ADS11/ Ano:2024")
+print("Alunos: Pedro Henrique Botega e Isabel de Sá")
+print("-"*50)
+print("\n")
+print("Seja Bem vindo ao Programa de Jogadores da Escolinha do Flamengo")
+print("\n")
+print("-"*50)
+menu()
